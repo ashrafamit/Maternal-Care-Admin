@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "465603142169",
+    "firebase_url": "https://maternal-care-bac60-default-rtdb.firebaseio.com",
+    "project_id": "maternal-care-bac60",
+    "storage_bucket": "maternal-care-bac60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465603142169:android:5c87fb145ba5174ad54088",
+        "android_client_info": {
+          "package_name": "com.ashrafamit.maternalcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465603142169-7v96322envdjlolit5o9h9aabvsjhbtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qsySzjWR78Zvb8T5TzvoaSOku7kSoF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465603142169-7v96322envdjlolit5o9h9aabvsjhbtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465603142169:android:ee871f04197842cfd54088",
+        "android_client_info": {
+          "package_name": "com.ashrafamit.maternalcareadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465603142169-7v96322envdjlolit5o9h9aabvsjhbtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qsySzjWR78Zvb8T5TzvoaSOku7kSoF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465603142169-7v96322envdjlolit5o9h9aabvsjhbtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
